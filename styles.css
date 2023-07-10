@@ -1,0 +1,109 @@
+.body{
+    background: #dfe1e5;
+  }
+  .main{
+    margin-top: 150px;
+  }
+  .fbk{
+    width: 300px;
+    margin-bottom: -10px; 
+  }
+  .fbtxt{
+   max-width: 500px;
+   font-size: 30px;
+   margin-top: -10px;
+   font-weight: normal;
+   margin-left: 30px;
+   font-family: sans-serif;
+  }
+  .bdiv{
+   border: 2px solid #FFFFFF;
+   background: #FFFFFF;
+   width: 400px;
+   height: 300px;
+   padding-top: 50px;
+   border-radius: 10px;
+   margin-top: 90px;
+  }
+  .input{
+   display: block;
+   margin-top: -40px;
+   border: 1px solid #E5E4E2;
+   width: 360px;
+   height: 45px;
+   border-radius: 10px;
+   font-size: 20px;
+   padding-left: 15px;
+   margin-left: auto;
+   margin-right: auto;
+   font-family: sans-serif;
+  }
+  .pwd{
+   display: block;
+   margin-top: 10px;
+   border: 1px solid #E5E4E2;
+   width: 360px;
+   height: 45px;
+   border-radius: 10px;
+   font-size: 20px;
+   padding-left: 15px;
+   margin-left: auto;
+   margin-right: auto;
+   font-family: sans-serif;
+  }
+  .lgn{
+   display: block; 
+   margin-top: 10px;
+   border: 1px solid #C9C0BB;
+   width: 380px;
+   height: 45px;
+   border-radius: 10px;
+   font-size: 20px;
+   padding-left: 15px;
+   margin-left: auto;
+   margin-right: auto;
+   background: #0070FF;
+   color: white;
+   font-family: sans-serif;
+  }
+  .lnk{
+    display: block;
+    border-bottom: 1px solid #C9C0BB;
+    width: 230px;
+    height: 45px;
+    font-size: 15px;
+    padding-left: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #4570E6;
+    margin-top: 30px;
+    font-family: sans-serif;
+  }
+  .cna{
+    display: block; 
+    margin-top: 30px;
+    border: 1px solid #E5E4E2;
+    width: 360px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #32CD32;
+    font-family: sans-serif;
+    color: white;
+  }
+  .cap{
+    display: block; 
+    margin-top: 50px;
+    margin-left: 40px;
+    font-style: solid;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 20px;
+  }
+  .two{
+    display: flex;
+    justify-content: center;
+  }
